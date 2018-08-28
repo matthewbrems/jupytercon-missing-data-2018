@@ -1,6 +1,8 @@
 # jupytercon-missing-data-2018
 JupyterCon 2018: Data Science with Missing Data
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/matthewbrems/jupytercon-missing-data-2018/master)
+
 ### Missing Data Resources
 - [MissingNo in Python](https://github.com/ResidentMario/missingno)
 - [MissingNo Paper](http://joss.theoj.org/papers/52b4115d6c03864b884fbf3334851322)
@@ -16,4 +18,3 @@ JupyterCon 2018: Data Science with Missing Data
 - [LinkedIn](https://www.linkedin.com/in/matthewbrems)
 - [Twitter](https://www.twitter.com/matthewbrems)
 - [Medium](https://www.medium.com/@matthew.w.brems)
-
