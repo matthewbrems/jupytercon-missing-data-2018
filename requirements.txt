@@ -4,5 +4,4 @@ matplotlib
 sklearn
 ipywidgets
 IPython
-warnings
 missingno
